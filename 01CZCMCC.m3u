@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://wind1.x3322.net:23000/iptvepg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+﻿#EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml,http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="" tvg-name="常州新闻" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/166c27c7bdedaac16faf05228be64814.png" group-title="本地频道",常州新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/TVOD/3/224/3221227899/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常州都市" tvg-logo="http://livehls.oss-cn-shanghai.aliyuncs.com/2020/12/11/image/166c27c7bdedaac16faf05228be64814.png" group-title="本地频道",常州都市
